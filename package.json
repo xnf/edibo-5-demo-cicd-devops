@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "serve": "parcel src/index.html",
+    "prebuild": "npm test",
     "build": "parcel build src/index.html",
     "test": "jest"
   },
