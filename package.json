@@ -1,0 +1,23 @@
+{
+  "name": "edibo-5-demo-cicd-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xnf/edibo-5-demo-cicd-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xnf/edibo-5-demo-cicd-devops/issues"
+  },
+  "homepage": "https://github.com/xnf/edibo-5-demo-cicd-devops#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
