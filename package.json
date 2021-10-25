@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "serve": "parcel src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/xnf/edibo-5-demo-cicd-devops#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0",
     "parcel": "^2.0.0"
   }
 }
